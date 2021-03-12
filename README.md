@@ -1,5 +1,5 @@
-# [Main.java](https://github.com/Lexx-Psi/Lec2.1-HW1-Miles/blob/2de030621537349c7c3352d946899d9abbcf4b52/Main.java)
-Приложение, рассчитывающее бонус клиента от пополнения счёта свыше 1000р.
+# [Main.java](https://github.com/Lexx-Psi/Lec2.1-HW2-1for100/blob/b7a383a32ffcfe5f342c349cd9f3f3172e2acad2/Main.java)
+Приложение, рассчитывающее бонус и итоговый баланс счёта клиента после пополнения.
 
  ![Java+Notes](https://user-images.githubusercontent.com/60262142/110939391-64fa3280-8346-11eb-96c8-d738028b97f8.png)
 -----------
