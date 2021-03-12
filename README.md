@@ -1,7 +1,6 @@
 # [Main.java](https://github.com/Lexx-Psi/Lec2.1-HW1-Miles/blob/2de030621537349c7c3352d946899d9abbcf4b52/Main.java)
 Приложение, рассчитывающее количество начисленных миль за каждые 20 рублей из стоимости билета.
-
- https://disk.yandex.ru/i/5a-Tq56JLdFF2A
+ ![Java+Notes](https://user-images.githubusercontent.com/60262142/110939391-64fa3280-8346-11eb-96c8-d738028b97f8.png)
 -----------
 Примечание: количество миль округляется в меньшую сторону!
 
